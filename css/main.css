@@ -36,9 +36,4 @@ ul.posts {
 }
 ul.posts li {list-style: none;
 }
-styledimg {
-  background-image: url(images/testing-trends-world-quality-report.jpg);
-  background-repeat: no-repeat;
-  width: 600px;
-  height: 200px;
-}
+
